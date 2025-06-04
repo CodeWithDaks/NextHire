@@ -1,6 +1,6 @@
 
+Next_Hire
 
-Next_Hire:-
 
 A full-stack Job Posting and Job Applying platform built with React, Node.js, and MongoDB. Includes job posting, applicant tracking, user authentication, and admin control panel. Designed for recruiters and job seekers.
 
